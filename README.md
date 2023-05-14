@@ -1,6 +1,6 @@
 <h2> Hi, I'm Thiago Matos! <img src="https://media.giphy.com/media/xFkgeu7dhfgqqxJqmj/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDk1MDAzMGU2YzRjYzBjYzQ3Y2RiYTAxNjRlOGFlN2RmNThjZTVkMCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/vzO0Vc8b2VBLi/giphy.gif" width="230">
-<p><em>Programmer at <a href="https://portal.ifma.edu.br/inicio/">Federal Institute of Maranhão </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30" border-radius="100px"></br>
+<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDk1MDAzMGU2YzRjYzBjYzQ3Y2RiYTAxNjRlOGFlN2RmNThjZTVkMCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/vzO0Vc8b2VBLi/giphy.gif" width="230" border-radius="100px">
+<p><em>Programmer at <a href="https://portal.ifma.edu.br/inicio/">Federal Institute of Maranhão </a></br>
 
 
 <!-- Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
