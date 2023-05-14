@@ -19,7 +19,7 @@
 const thiago = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS, Python, PHP],
-  tools: [React, React Native, Redux, Node, Storybook, Styled-Components, Chackra, ],
+  tools: [React, React Native, Redux, Node, Storybook, Styled-Components, Chackra]
 }
 ```
 
