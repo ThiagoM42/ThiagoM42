@@ -25,7 +25,7 @@ const thiago = {
 
 <br>
 <br>
-<br>
+<br> 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagoM42&theme=blue-green&show_icons=true)
 
