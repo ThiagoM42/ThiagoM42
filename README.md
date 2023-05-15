@@ -14,10 +14,13 @@
 
 <br>
 <br>
+<br>
+
 ### A little more about me...  
 
 <br>
 <br>
+<br> 
 
 ```javascript
 const thiago = {
