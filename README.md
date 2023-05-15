@@ -23,4 +23,9 @@ const thiago = {
 }
 ```
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagoM42&theme=blue-green&show_icons=true)
+<br>
+<br>
+<br>
+<div width="100%" align="center">
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagoM42&theme=blue-green&show_icons=true)
+</div>
