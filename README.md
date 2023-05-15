@@ -27,6 +27,5 @@ const thiago = {
 <br>
 <br> 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagoM42&theme=blue-green&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagoM42&theme=blue-green&show_icons=true&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoM42&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
